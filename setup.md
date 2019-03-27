@@ -1,4 +1,4 @@
-一，首先应安装最新的node.js
+一，首先应安装最新的node.js，之后 npm init 初始化目录，生产package.json文件
 二，安装webpack模块(基础模块)
   ①，npm install --save-dev webpack                 //这里是指项目目录安装，尽量不要全局安装webpack
   ②，npm install --save-dev webpack-cli             //安装webpack的指令模块
